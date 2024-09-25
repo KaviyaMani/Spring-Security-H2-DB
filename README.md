@@ -1,4 +1,4 @@
-
+# Spring Security with H2 Database
 1. Add User entity to store user details
 2. Add Repository interface
 3. Add **CustomUserDetails** which will use our custom User object
